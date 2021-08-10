@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python Development, AutoCAD, Photoshop, Illustrator
 - 🌱 I’m currently learning everything 
 - 💞️ I’m looking for job opportunities in Engineering Domain
-- 📫 How to reach me 
+- 📫 How to reach me: Instagram - @vinayak_dubey_5
 
 <!---
 Vinayakd7/Vinayakd7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
